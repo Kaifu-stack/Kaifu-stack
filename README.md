@@ -19,10 +19,10 @@
 - 🌱 I’m learning:
   - Full Stack Web Development
   - C++, DSA & OOPs
-  - Python Projects
+  - Python 
   - Competitive Programming
 
-- 🤖 Built an AI Chatbot for Museum Ticket Booking using IBM Cloud and Twilio
+- 🤖 Built an AI Chatbot for Railway Ticket Booking using IBM Cloud and Twilio
 
 - ⚡ Fun fact: I love turning caffeine into code ☕💻
 
