@@ -13,8 +13,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on:  
-  [🎮 RPS Game](https://kaifu-stack.github.io/RPS-game/) | [🛒 Amazon Clone](https://amazon-clone-wpue.vercel.app/)
+- 🔭 I have made project on:  
+  [Todo App](https://react-currency-converter-rouge.vercel.app/)
+  [🎮 RPS Game](https://kaifu-stack.github.io/RPS-game/) | [🛒 Amazon Clone](https://amazon-clone-wpue.vercel.app/) | [Currency Converter](https://react-currency-converter-rouge.vercel.app/)
 
 - 🌱 I’m learning:
   - Full Stack Web Development
@@ -37,7 +38,12 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
 </p>
+
 
 ### 🧰 Tools & IDEs
 <p>
