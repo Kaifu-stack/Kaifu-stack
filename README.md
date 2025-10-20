@@ -16,8 +16,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Full-Stack Web Development, C++, DSA & OOPs, Python, and Competitive Programming**  
-- 🤖 Built an **AI Chatbot** for Railway Ticket Booking using IBM Cloud & Twilio  
+- 🌱 Currently learning **Full-Stack Web Development, C++, DSA & OOPs, Python, and Competitive Programming**   
 - 💡 Love exploring **new technologies** and building **interactive projects**
 
 ---
