@@ -66,7 +66,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://kaifu-stack.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://portfolio-beta-six-89.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="mailto:mdkaifalam7075@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Kaifu-stack"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
