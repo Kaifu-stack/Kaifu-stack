@@ -22,7 +22,7 @@
 ---
 
 ## 🔥 Projects
-- 📝 [Todo App](https://react-currency-converter-rouge.vercel.app/)  
+- 📝 [Todo App](https://todo-app-delta-fawn.vercel.app/)  
 - 🎮 [Rock Paper Scissors Game](https://kaifu-stack.github.io/RPS-game/)  
 - 🛒 [Amazon Clone](https://amazon-clone-wpue.vercel.app/)  
 - 💱 [Currency Converter](https://react-currency-converter-rouge.vercel.app/)  
